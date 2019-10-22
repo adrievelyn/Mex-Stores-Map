@@ -53,12 +53,15 @@ ReactDOM.render(element, container);
 
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Badge from './Components/Badge';
 
+import 'bootstrap/dist/css/bootstrap.css';
+import './global.css';
+import BadgeNew from './Pages/BadgeNew';
+import Map from './Components/Map';
 
 const container = document.getElementById('app');
 
-ReactDOM.render(<Badge />, container);
+ReactDOM.render(<Map />, container);
 
 
 
