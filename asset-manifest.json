@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Mex-Stores-Map/static/css/main.239732e6.chunk.css",
+    "main.js": "/Mex-Stores-Map/static/js/main.c266d61f.chunk.js",
+    "main.js.map": "/Mex-Stores-Map/static/js/main.c266d61f.chunk.js.map",
+    "runtime-main.js": "/Mex-Stores-Map/static/js/runtime-main.136de68b.js",
+    "runtime-main.js.map": "/Mex-Stores-Map/static/js/runtime-main.136de68b.js.map",
+    "static/css/2.510409cd.chunk.css": "/Mex-Stores-Map/static/css/2.510409cd.chunk.css",
+    "static/js/2.84afc587.chunk.js": "/Mex-Stores-Map/static/js/2.84afc587.chunk.js",
+    "static/js/2.84afc587.chunk.js.map": "/Mex-Stores-Map/static/js/2.84afc587.chunk.js.map",
+    "index.html": "/Mex-Stores-Map/index.html",
+    "precache-manifest.dec600232a76ccde605878a7dc772cd4.js": "/Mex-Stores-Map/precache-manifest.dec600232a76ccde605878a7dc772cd4.js",
+    "service-worker.js": "/Mex-Stores-Map/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/Mex-Stores-Map/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.239732e6.chunk.css.map": "/Mex-Stores-Map/static/css/main.239732e6.chunk.css.map",
+    "static/media/logo.svg": "/Mex-Stores-Map/static/media/logo.6f957db0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.136de68b.js",
+    "static/css/2.510409cd.chunk.css",
+    "static/js/2.84afc587.chunk.js",
+    "static/css/main.239732e6.chunk.css",
+    "static/js/main.c266d61f.chunk.js"
+  ]
+}
