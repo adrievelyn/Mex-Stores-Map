@@ -1,0 +1,32 @@
+.BadgeNew-hero {
+	width: 120%;
+	padding: 0.2rem 0;
+	background: #1B1B25;
+	background-repeat: repeat;
+	margin-bottom: 1rem;
+	color: #FFFFFF;
+}
+
+.Badge-header {
+  padding: 0.5rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+	display: flex;
+
+}
+
+.Badge-logo {
+  padding: 0.5rem 0;
+  background: #FFFFFF;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+}
+
+ul, a {
+  justify-content: space-between;
+  display: table;
+}

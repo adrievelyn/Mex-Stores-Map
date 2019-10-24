@@ -61,7 +61,7 @@ import Map from './Components/Map';
 
 const container = document.getElementById('app');
 
-ReactDOM.render(<Map />, container);
+ReactDOM.render(<BadgeNew/>, container);
 
 
 

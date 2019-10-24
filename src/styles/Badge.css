@@ -9,22 +9,24 @@
 
 .Badge-header {
   padding: 0.5rem 0;
-  background: #FFFFFF;
-  display: flex;
-  justify-content: center;
+  display: inline-flex;
+  
 }
+
 .Badge-logo {
   padding: 0.5rem 0;
   background: #FFFFFF;
   justify-content: center;
+  width: 30px;
+  height: 30px;
 }
 
-.Badge-section-name {
+/*.Badge-section-name {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 1rem 0;
-}
+}*/
 
 .Badge-section-info {
   display: flex;
@@ -45,10 +47,29 @@
 
 .Badge-footer {
   height: 54px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   color: #98CA3F;
   font-weight: bold;
   font-style: italic;
+  margin-top: 100%;
+ text-align: center;
+}
+
+/*.Badge-Form {
+  margin-top: 150px;
+  display: inline-block;
+}*/
+
+.form-control {
+  
+ 
+}
+
+h3, ul {
+  justify-content: center;
+  color: orange;
+  text-align: center;
+}
+
+ul, a {
+  justify-content: space-between;
 }

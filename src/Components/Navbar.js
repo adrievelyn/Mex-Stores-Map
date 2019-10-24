@@ -10,8 +10,7 @@ class Navbar extends React.Component {
 			<a className='Navbar-brand 'href='/'>
 				<img className='Navbar-brand-logo'
 				 src={Logo} alt='Logo' /> 
-				<div className='Navbar-brand-logo' className='font-weight-dark'> México City Stores Map </div>
-				
+				México City Stores Map 
 			</a>
 		</div>;
 	}
